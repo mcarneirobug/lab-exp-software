@@ -6,6 +6,7 @@
 ![Badge](https://img.shields.io/github/issues-pr/mcarneirobug/lab-exp-software?logoColor=red)
 ![Badge](https://img.shields.io/github/issues-pr-closed-raw/mcarneirobug/lab-exp-software)
 ![Badge](https://img.shields.io/github/last-commit/mcarneirobug/lab-exp-software)
+![Badge](https://img.shields.io/github/contributors/mcarneirobug/lab-exp-software)
 
 Tabela de conteúdos
 =================
