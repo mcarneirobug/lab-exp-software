@@ -7,6 +7,18 @@
 ![Badge](https://img.shields.io/github/issues-pr-closed-raw/mcarneirobug/lab-exp-software)
 ![Badge](https://img.shields.io/github/last-commit/mcarneirobug/lab-exp-software)
 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#page_facing_up-sobre-o-projeto)
+   * [Questões de pesquisa](#dart-questões-de-pesquisa)
+   * [Relatório final](#pencil-relatório-final)
+   * [Bônus](#white_check_mark-bônus)
+   * [Processo de desenvolvimento](#octocat-processo-de-desenvolvimento)
+   * [Alunos](#busts_in_silhouette-alunos)
+   * [Professor responsável](#bust_in_silhouette-professor-responsável)
+<!--te-->
+
 ### :page_facing_up: Sobre o projeto
 
 Neste laboratório, vamos estudar as principais características de sistemas populares open-source. Dessa forma, vamos analisar como eles são desenvolvidos, com que frequência recebem contribuição externa, com qual frequência lançam releases, entre outras características. Para tanto, colete os dados indicados a seguir para os 1.000 repositórios com maior número de estrelas no GitHub e discuta os valores obtidos.
