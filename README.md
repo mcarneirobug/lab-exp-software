@@ -60,7 +60,7 @@ Dica: compare os resultados para os sistemas com as linguagens da reportagem com
 
 ### :octocat: Processo de desenvolvimento
 
-- [ ] Lab01S01: Consulta graphql para 100 repositórios + requisição automática (**5 pontos**) - (Entrega: 23 fev)
+- [X] Lab01S01: Consulta graphql para 100 repositórios + requisição automática (**5 pontos**) - (Entrega: 23 fev)
 
 - [ ] Lab01S02: Paginação (consulta 1000 repositórios) + dados em arquivo .csv (**5 pontos**)
 
