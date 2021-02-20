@@ -4,12 +4,34 @@ import requests
 def get_query():
     query = """
      query github {
-        search (query: "starts:>100", type:REPOSITORY, first:100) {
+        search (query: "stars:>100", type:REPOSITORY, first:100) {
             nodes {
               ... on Repository {
                 nameWithOwner
                 url
+                stargazers {
+                  totalCount
+                }
                 createdAt
+                pullRequests(states: MERGED){
+                  totalCount
+                }
+                releases{
+                  totalCount
+                }
+                updatedAt
+                primaryLanguage{
+                  name
+                }
+                totIssuesClosed: issues(states: CLOSED){
+                  totalCount
+                }
+                totIssues: issues{
+                  totalCount
+                }
+                pullRequests(states: MERGED){
+                  totalCount
+                }
               }
             }
         }
