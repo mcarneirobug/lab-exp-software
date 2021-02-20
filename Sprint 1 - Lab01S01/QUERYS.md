@@ -8,7 +8,7 @@
  - Métrica: idade do repositório (calculado a partir da data de sua criação).
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -25,7 +25,7 @@
 
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -44,7 +44,7 @@
 
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -63,7 +63,7 @@
 
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -80,7 +80,7 @@
 
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -99,7 +99,7 @@
 
 ```sh
 {
-  search(query: "starts:>100", type: REPOSITORY, first: 100) {
+  search(query: "stars:>100", type: REPOSITORY, first: 100) {
     nodes {
       ... on Repository {
         nameWithOwner
@@ -149,5 +149,5 @@
 - Jose Laerte Pires Xavier Junior.
 
 <h4 align="center"> 
-	🚧  Spring 1 🚀 Em construção...  🚧
+	🚧  Spring 1 🚀 Finalizada...  🚧
 </h4>
