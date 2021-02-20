@@ -9,29 +9,7 @@ def get_query():
               ... on Repository {
                 nameWithOwner
                 url
-                stargazers {
-                  totalCount
-                }
                 createdAt
-                pullRequests(states: MERGED){
-                  totalCount
-                }
-                releases{
-                  totalCount
-                }
-                updatedAt
-                primaryLanguage{
-                  name
-                }
-                totIssuesClosed: issues(states: CLOSED){
-                  totalCount
-                }
-                totIssues: issues{
-                  totalCount
-                }
-                pullRequests(states: MERGED){
-                  totalCount
-                }
               }
             }
         }
