@@ -1,15 +1,16 @@
 URL = 'https://api.github.com/graphql'
-TOKEN = '8905a6d054459aed74c71e71ec640e0251f21269'
+TOKEN = 'INSERT YOUR TOKEN HERE'
 HEADERS = {
     'Content-Type': 'application/json',
     'Authorization': f'bearer {TOKEN}'
 }
 QUERY = """
 {
-    search(query:"stars:>100", type:REPOSITORY, first:10 {AFTER}){
+    search(query:"stars:>100", type:REPOSITORY, first:5{AFTER}){
         pageInfo {
-            hasNextPage
+            startCursor
             endCursor
+            hasNextPage
         }
         nodes {
         ... on Repository {
