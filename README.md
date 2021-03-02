@@ -62,7 +62,7 @@ Dica: compare os resultados para os sistemas com as linguagens da reportagem com
 
 - [X] Lab01S01: Consulta graphql para 100 repositórios + requisição automática (**5 pontos**) - (Entrega: 23 fev)
 
-- [ ] Lab01S02: Paginação (consulta 1000 repositórios) + dados em arquivo .csv (**5 pontos**)
+- [X] Lab01S02: Paginação (consulta 1000 repositórios) + dados em arquivo .csv (**5 pontos**) - (Entrega: 02 mar)
 
 - [ ] Lab01S03: Análise de dados + elaboração do relatório final (**10 pontos**)
 
@@ -77,5 +77,5 @@ Dica: compare os resultados para os sistemas com as linguagens da reportagem com
 - Jose Laerte Pires Xavier Junior.
 
 <h4 align="center"> 
-	🚧  Spring 1 🚀 Em construção...  🚧
+	🚧  Spring 3 🚀 Em construção...  🚧
 </h4>
