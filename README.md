@@ -64,7 +64,7 @@ Dica: compare os resultados para os sistemas com as linguagens da reportagem com
 
 - [X] Lab01S02: Paginação (consulta 1000 repositórios) + dados em arquivo .csv (**5 pontos**) - (Entrega: 02 mar)
 
-- [ ] Lab01S03: Análise de dados + elaboração do relatório final (**10 pontos**)
+- [X] Lab01S03: Análise de dados + elaboração do relatório final (**10 pontos**) (Entrega: 10 mar)
 
 ### :busts_in_silhouette: Alunos
 
